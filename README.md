@@ -31,27 +31,25 @@ A React Native mobile application developed for the **BIT351 Mobile Application 
 ## 🔧 How to Run
 
 1. Clone this repository:
-   ```bash
+   
    git clone https://github.com/KimSuor23/Mobile-Application---EventApp.git
    cd Mobile-Application---EventApp
    
 2. Install dependencies:
-```bash
+
 npm install
 
 3. Start the development server:
-```bash
+
 npx expo start
 
 4. Open the app:
-```bash
 
 Scan the QR code with Expo Go on your phone, or
 
 Run it in an Android/iOS simulator
 
 ## Firebase Setup
-```bash
 To make the app fully functional, your Firestore must include these collections:
 
 events
@@ -64,7 +62,6 @@ members
 Be sure to configure your Firebase connection in: firebase/index.js
 
 ## Author
-```bash
 Name: Kim Sour Liv
 
 Student ID: s1525783
@@ -72,7 +69,6 @@ Student ID: s1525783
 Project: BIT351 Mobile Application Project – Semester 1, 2025
 
 ## License
-```bash
 This project is built for educational purposes only. Not intended for commercial use.
 
 ---
