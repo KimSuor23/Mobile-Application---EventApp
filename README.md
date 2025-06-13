@@ -37,39 +37,42 @@ A React Native mobile application developed for the **BIT351 Mobile Application 
    
 2. Install dependencies:
 
-npm install
+   npm install
 
 3. Start the development server:
 
-npx expo start
+   npx expo start
 
 4. Open the app:
 
-Scan the QR code with Expo Go on your phone, or
+   Scan the QR code with Expo Go on your phone, or
 
-Run it in an Android/iOS simulator
+   Run it in an Android/iOS simulator
 
 ## Firebase Setup
-To make the app fully functional, your Firestore must include these collections:
+   
+   To make the app fully functional, your Firestore must include these collections:
 
-events
+   events
 
-participants
+   participants
 
-members
+   members
 → Each member should have at least a name field (used for login)
 
-Be sure to configure your Firebase connection in: firebase/index.js
+   Be sure to configure your Firebase connection in: firebase/index.js
 
-## Author
-Name: Kim Sour Liv
+## Author   
+      
+   Name: Kim Sour Liv
 
-Student ID: s1525783
+   Student ID: s1525783
 
 Project: BIT351 Mobile Application Project – Semester 1, 2025
 
 ## License
-This project is built for educational purposes only. Not intended for commercial use.
+   
+   This project is built for educational purposes only. Not intended for commercial use.
 
 ---
 
